@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[https://images.alphacoders.com/125/1252883.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q2azU1cWphNXlzZG5tdnE3Ymo1MjFoN3pyMWllbjdqeTk2ajcydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzX8c7wVyGa9trsXI7/giphy.gif)" width="100%" alt="Little Witch in the Woods Banner">
-</p>
 
 <h1 align="center">🌙✨ Oi, eu sou a Verônica! ✨🌙</h1>
 
