@@ -29,11 +29,6 @@ Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 - Transformar códigos em encantamentos ⚗️
 - Misturar aprendizado com diversão ✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif)" width="80" />
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" />
-</p>
 
 ## 📸 Galeria Mágica do Meu Minecraft ✨🌙
 
