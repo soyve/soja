@@ -29,6 +29,46 @@ Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 - Transformar códigos em encantamentos ⚗️
 - Misturar aprendizado com diversão ✨
 
+<p align="center">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" />
+</p>
+
+## 📸 Galeria Mágica do Meu Minecraft ✨🌙
+
+<p align="center">
+  🌿🍄🌼  
+  <br>
+  🧱 <img src="https://github.com/soyve/soyve/assets/soyve/Minecraft1.jpg" width="220" title="🌼 Amigos do Overworld" /> 🧱  
+  <br>
+  🌼🍄🌿  
+</p>
+
+<p align="center">
+  🌸🌸🌸  
+  <br>
+  🐰 <img src="https://github.com/soyve/soyve/assets/soyve/Minecraft2.jpg" width="220" title="🌸 Coelhinhos Encantados" /> 🐰  
+  <br>
+  🌸🌸🌸  
+</p>
+
+<p align="center">
+  ✨🔮✨  
+  <br>
+  🌌 <img src="https://github.com/soyve/soyve/assets/soyve/Minecraft3.jpg" width="220" title="🔮 Enderman Curioso" /> 🌌  
+  <br>
+  ✨🔮✨  
+</p>
+
+<p align="center">
+  💧🌿🪄  
+  <br>
+  🦎 <img src="https://github.com/soyve/soyve/assets/soyve/Minecraft4.jpg" width="220" title="🪄 Axolote Místico" /> 🦎  
+  <br>
+  💧🌿🪄  
+</p>
+
 ---
 
 ## 🌸 Um pouco do que me representa
