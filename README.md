@@ -35,7 +35,10 @@ Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 <p align="center">
   🌿🍄🌼  
   <br>
-  🧱 <img src="https://github.com/soyve/soyve/assets/soyve/Minecraft1.jpg" width="220" title="🌼 Amigos do Overworld" /> 🧱  
+  🧱 🌿🍄🌼  
+🧱 <img src="https://raw.githubusercontent.com/soyve/soyve/main/assets/minecraft.jpg" width="220" title="Amigos do Overworld" /> 🧱  
+🌼🍄🌿
+ title="🌼 Amigos do Overworld" /> 🧱  
   <br>
   🌼🍄🌿  
 </p>
